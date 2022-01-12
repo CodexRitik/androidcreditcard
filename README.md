@@ -5,7 +5,7 @@ Android Credit Card Input Project
 
 
 This project is a starting point for a Credit Card application.
-[Source Code Folder Link](
+[Source Code Folder Link](https://github.com/CodexRitik/androidcreditcard/tree/master/lib)
 
 A Screenshot of running Application :
 
